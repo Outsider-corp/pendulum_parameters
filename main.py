@@ -78,8 +78,8 @@ def main():
     l_pend = round(l_pend, 2)
     write_calcs(l_pend, "м", "Длина подвеса математического маятника")
 
-    Rz_L = 20466.5
-    Rz_R = 21997.1
+    Rz_L = 20466.50
+    Rz_R = 21997.10
     Rx = 650
     # Вычисление веса маятника
     G = Rx / (pow(const["V"], 2) / const["g"] / l_pend \
