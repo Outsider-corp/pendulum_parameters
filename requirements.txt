@@ -1,4 +1,4 @@
 pandas
 openpyxl
 numpy
-#lasso-python
+scipy
